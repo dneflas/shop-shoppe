@@ -53,7 +53,7 @@ The application allows users to sign up and create an account to make purchases.
 
 ## Deployed Link
 
-[Shop-Shoppe App](https://shop-shoppe.vercel.app/)
+[Shop-Shoppe App](https://floating-eyrie-73302.herokuapp.com/)
 </br>
 
 ## License
